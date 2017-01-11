@@ -1,0 +1,44 @@
+***********************************************************
+TEST NAME   : JeganGopalakrishnan14-55-06-360.xml
+AUTHOR      : Jegan Gopalakrishnan
+*********************************************************** 
+TEST CASE   : TestDriverVendingMachine1
+TEST DRIVER : TestDriverVendingMachine1.dll
+TEST CODE   : VendingMachine.dll
+EXECUTED TIME   : 11/22/2016 2:55:06 PM
+TEST RESULT     : PASS
+TEST LOGS       : LOGS STARTS HERE ==========>
+TestDriverVendingMachine1 invoked
+ FETCH method passed for input A
+<===================TEST LOGS ENDS HERE
+======================================================= 
+TEST CASE   : TestDriverVendingMachine2
+TEST DRIVER : TestDriverVendingMachine2.dll
+TEST CODE   : VendingMachine.dll
+EXECUTED TIME   : 11/22/2016 2:55:06 PM
+TEST RESULT     : FAIL
+TEST LOGS       : LOGS STARTS HERE ==========>
+TestDriverVendingMachine2 invoked
+ FETCH method failed for input D Expected Output : Dew || Actual Output Coke
+<===================TEST LOGS ENDS HERE
+======================================================= 
+TEST CASE   : TestDriverVendingMachine3
+TEST DRIVER : TestDriverVendingMachine3.dll
+TEST CODE   : VendingMachine.dll
+EXECUTED TIME   : 11/22/2016 2:55:06 PM
+TEST RESULT     : FAIL
+TEST LOGS       : LOGS STARTS HERE ==========>
+TestDriverVendingMachine3 invoked
+ FETCH method failed for input B Expected Output : Beer || Actual Output Appy
+<===================TEST LOGS ENDS HERE
+======================================================= 
+TEST CASE   : TestDriverVendingMachine3
+TEST DRIVER : TestDriverVendingMachine4.dll
+TEST CODE   : VendingMachine.dll
+EXECUTED TIME   : 11/22/2016 2:55:06 PM
+TEST RESULT     : PASS
+TEST LOGS       : LOGS STARTS HERE ==========>
+TestDriverVendingMachine4 invoked
+ FETCH method passed for input C
+<===================TEST LOGS ENDS HERE
+======================================================= 

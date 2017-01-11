@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testRequest>
+  <author>Jegan Gopalakrishnan</author>
+  <test name="TestDriverVendingMachine">
+    <testDriver>TestDriverVendingMachine.dll</testDriver>
+    <library>VendingMachine.dll</library>
+  </test>
+  <test name="TestDriverVendingMachine2">
+    <testDriver>TestDriverVendingMachine2.dll</testDriver>
+    <library>VendingMachine.dll</library>
+  </test>
+  <test name="TestDriverVendingMachine3">
+    <testDriver>TestDriverVendingMachine3.dll</testDriver>
+    <library>VendingMachine.dll</library>
+  </test>
+  <test name="TestDriverVendingMachine3">
+    <testDriver>TestDriverVendingMachine4.dll</testDriver>
+    <library>VendingMachine.dll</library>
+  </test>
+</testRequest>
