@@ -1,7 +1,7 @@
 ﻿/***********************************************************************************************
  *  File name       :       TestHarnessManager.cs
  *  Function        :       Manages Queueing of xml files and running the test requests 
- *  Application     :       Project # 2 - Software Modeling & Analysis                        
+ *  Application     :       Project # 4 - Software Modeling & Analysis                        
  *  Author          :       Jegan Gopalakrishnan
  *  Reference       :       Prof.Fawcett's Fall 2016 Project 4 Help Code
  * *********************************************************************************************/
